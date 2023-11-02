@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">忆享人生</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">通话</string>
+    <string name="title_notifications">社区</string>
+    <string name="title_abc">我的</string>
+    <string name="description_avatar" />
+    <string name="title_activity_planself">planself</string>
+</resources>
